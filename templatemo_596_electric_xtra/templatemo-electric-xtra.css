@@ -439,14 +439,14 @@ https://templatemo.com/tm-596-electric-xtra
 
         .glitch-text::before {
             animation: glitch-1 0.5s infinite;
-            color: #ff0000;
+            color: #ff8800;
             z-index: -1;
             text-shadow: -2px 0 #FF5E00;
         }
 
         .glitch-text::after {
             animation: glitch-2 0.5s infinite;
-            color: #0051ff;
+            color: #7d4300;
             z-index: -1;
             text-shadow: 2px 0 #00B2FF;
         }
@@ -1131,3 +1131,4 @@ https://templatemo.com/tm-596-electric-xtra
             }
 
         }
+
